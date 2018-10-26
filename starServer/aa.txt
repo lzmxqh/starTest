@@ -1,0 +1,99 @@
+listening on : 3000
+a user connected
+a user connected
+登录-用户名为: admin
+======success======= { result: 2 }
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+登录-用户名为: asd
+======success======= { result: 2 }
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+====C_S_PlayerMove====
+登录-用户名为: admin
+======repeate======= { result: 1 }

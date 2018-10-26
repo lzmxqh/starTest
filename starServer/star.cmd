@@ -1,0 +1,1 @@
+node starServer > aa.txt
